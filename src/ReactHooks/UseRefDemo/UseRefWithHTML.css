@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: darkslategray;
+    white-space: pre-line;
+    gap:2vh;
+}
+
+div input{
+    height: 5vh;
+    width: 20vh;
+}

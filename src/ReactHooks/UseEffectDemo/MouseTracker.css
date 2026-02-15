@@ -1,0 +1,10 @@
+div{
+    padding-top : 40px;
+    text-align: center;
+}
+
+div p{
+    color : red;
+    background-color: rgb(240, 234, 226);
+    font-size: x-large;
+}
