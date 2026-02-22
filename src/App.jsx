@@ -20,11 +20,12 @@ import UseCounterDemo from './CustomHooks/UseCounterDemo.jsx';
 import APIDemo from './APIS/ApiDemo.jsx';
 import ApiPostDemo from './APIS/ApiPostDemo.jsx';
 import CustomAxios from './APIS/CustomAxios.jsx';
+import FormsHooksDemo from './FormsHooks/FormsHooksDemo.jsx';
 
 
 function App() {
 return (
-<CustomAxios></CustomAxios>
+<FormsHooksDemo></FormsHooksDemo>
 )
 }
 
