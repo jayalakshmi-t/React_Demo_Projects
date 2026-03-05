@@ -1,6 +1,6 @@
 
 import './App.css'
-import Demo from './Demo.jsx'
+/*import Demo from './Demo.jsx'
 import SampleApp   from './components/SampleApp.jsx';
 import MyButton from './components/MyButton.jsx';
 import UseStateDemo from './ReactHooks/UseStateDemo/UseStateDemo.jsx';
@@ -20,12 +20,13 @@ import UseCounterDemo from './CustomHooks/UseCounterDemo.jsx';
 import APIDemo from './APIS/ApiDemo.jsx';
 import ApiPostDemo from './APIS/ApiPostDemo.jsx';
 import CustomAxios from './APIS/CustomAxios.jsx';
-import FormsHooksDemo from './FormsHooks/FormsHooksDemo.jsx';
+import FormsHooksDemo from './FormsHooks/FormsHooksDemo.jsx';*/
+import RoutingDemo from './Routing/RountingDemo.jsx'; 
 
 
 function App() {
 return (
-<FormsHooksDemo></FormsHooksDemo>
+<RoutingDemo></RoutingDemo>
 )
 }
 
