@@ -20,13 +20,18 @@ import UseCounterDemo from './CustomHooks/UseCounterDemo.jsx';
 import APIDemo from './APIS/ApiDemo.jsx';
 import ApiPostDemo from './APIS/ApiPostDemo.jsx';
 import CustomAxios from './APIS/CustomAxios.jsx';
-import FormsHooksDemo from './FormsHooks/FormsHooksDemo.jsx';*/
-import RoutingDemo from './Routing/RountingDemo.jsx'; 
+import FormsHooksDemo from './FormsHooks/FormsHooksDemo.jsx';
+import RoutingDemo from './Routing/RountingDemo.jsx'; */
+import Counter from './Redux/Counter';
+import Display from './Redux/Display';
 
 
 function App() {
 return (
-<RoutingDemo></RoutingDemo>
+    <div>
+<Counter></Counter>
+<Display></Display>
+</div>
 )
 }
 
